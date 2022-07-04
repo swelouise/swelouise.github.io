@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @swelouise
-- 👀 I’m interested in data engineering 
-- 🌱 I’m currently learning how to build dash apps with plotly. 
+- 👋 Hi, I’m Lou
+- 👀 I’m interested in data engineering and analysis 
+- 🌱 I’m currently learning R and Machine Learning
 - 💞️ I’m looking to collaborate on open. 
 - 📫 How to reach me swelouise@gmail.com
 
