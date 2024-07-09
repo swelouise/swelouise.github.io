@@ -54,7 +54,7 @@
                     <div class="col-lg-6 order-lg-1">
                         <div class="p-5">
                             <h2 class="display-4">Entry-level Professional</h2>
-                            <p>Since graduating in 2019 with a bachelor's in Information Systems and narrowing my focus to data and improving processes, I've worked as a data governance analyst in government and industry settings. Currently, I recently graduated with a master's in Business Analytics and am working full-time as a data governance analyst for Nike. </p>
+                            <p>Since graduating in 2019 with a bachelor's in Information Systems and narrowing my focus to data and improving processes, I've worked as a data governance analyst in government and industry settings. I recently graduated with a master's in Business Analytics and am working full-time as a data governance analyst for Nike. </p>
                         </div>
                     </div>
                 </div>
