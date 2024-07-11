@@ -6,7 +6,7 @@
     <title>New Page</title>
 </head>
 <body>
-    <h1>New Page</h1>
-    <p>This is a new page.</p>
+    <h1>Past Projects</h1>
+    <p>coming soon.....</p>
 </body>
 </html>
