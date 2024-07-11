@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Contact</h1>
-    <p>email: <a href=swelouise@gmail.com> </p>
+    <p>email: <a href=swelouise@gmail.com>swelouise@gmail.com </p>
   <p>github: <a href=https://github.com/swelouise>github.com/swelouise <p>
 </body>
 </html>
