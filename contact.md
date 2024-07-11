@@ -8,6 +8,6 @@
 <body>
     <h1>Contact</h1>
     <p>email: swelouise@gmail.com</p>
-  <p>github: https://github.com/swelouise</p>
+  <p>github: <a href=https://github.com/swelouise</a></p>
 </body>
 </html>
