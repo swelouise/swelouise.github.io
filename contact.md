@@ -1,4 +1,5 @@
 
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -7,7 +8,7 @@
 </head>
 <body>
     <h1>Contact</h1>
-    <p>email: <a href=swelouise@gmail.com>swelouise@gmail.com </p>
-  <p>github: <a href=https://github.com/swelouise>github.com/swelouise <p>
+    <p>email: <a href="mailto:swelouise@gmail.com">swelouise@gmail.com</a></p>
+    <p>github: <a href="https://github.com/swelouise">github.com/swelouise</a></p>
 </body>
 </html>
